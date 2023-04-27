@@ -1,3 +1,27 @@
 # how will a player's scoring output translate from their college conference to the NBA
 # chris pac12 big 12, dillon sec big10, alex acc big east
 # https://selenium-python-helium.readthedocs.io/en/latest/api.html
+
+# for scraping using helium
+# change players names to their bball reference names
+from bs4 import BeautifulSoup
+import time
+from helium import *
+driver = start_chrome('https://www.google.com/')
+for idx, row in sec_b10[0:5].iterrows():
+    driver = start_chrome('https://www.google.com/')
+    driver.execute_script('window.open('');') #javascript command
+    driver.switch_to.window(driver.window_handles[1]) #switch to new window
+    driver.get('https://www.google.com/')
+    press(row.Player+" basketball reference"); press(ENTER)
+    click(Link(row.Player+' Stats, Height, Weight, Position, Draft'))
+    time.sleep(4)
+    pagesource = driver.page_source
+    soup = BeautifulSoup(driver.page_source, 'lxml')
+    table = soup.find('table', {'id': 'per_game'})
+    ppg = table.find('tfoot').find('td', {'data-stat': 'pts_per_g'}).text
+    print(ppg)
+    sec_b10.loc[idx, 'NBA_PPG'] = ppg
+    driver.close()
+    driver.switch_to.window(driver.window_handles[0])
+kill_browser()
