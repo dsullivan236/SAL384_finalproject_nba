@@ -1,0 +1,345 @@
+,Player,College_Conference,College,College_PPG,NBA_Team
+0,Bam Adebayo,SEC,Kentucky,13,Heat
+1,Bradley Beal,SEC,Florida,14.8,Wizards
+2,Patrick Beverley,SEC,Arkansas,13,Bulls
+3,Devin Booker,SEC,Kentucky,10,Suns
+4,Brandon Boston Jr.,SEC,Kentucky,11.5,Clippers
+5,Kentavious Caldwell-Pope,SEC,Georgia,15.8,Nuggets
+6,Alex Caruso,SEC,Texas A&M,8,Bulls
+7,Willie Cauley-Stein,SEC,Kentucky,8,Rockets
+8,Jordan Clarkson,SEC,Missouri,15.4,Jazz
+9,Nic Claxton,SEC,Georgia,8.4,Nets
+10,Anthony Davis,SEC,Kentucky,14.2,Lakers
+11,Terence Davis,SEC,Ole Miss,12.5,Kings
+12,JD Davison,SEC,Alabama,8.5,Celtics
+13,Darius Days,SEC,LSU,10.3,Rockets
+14,Hamidou Diallo,SEC,Kentucky,10,Pistons
+15,PJ Dozier,SEC,South Carolina,10.4,Kings
+16,Tari Eason,SEC,LSU,13,Rockets
+17,Anthony Edwards,SEC,Georgia,19.1,Timberwolves
+18,Keon Ellis,SEC,Alabama,8.8,Kings
+19,Dorian Finney-Smith,SEC,Florida,10.7,Nets
+20,De'Aaron Fox,SEC,Kentucky,16.7,Kings
+21,Wenyen Gabriel,SEC,Kentucky,5.7,Lakers
+22,Daniel Gafford,SEC,Arkansas,14.3,Wizards
+23,Darius Garland,SEC,Vanderbilt,16.2,Cavaliers
+24,Shai Gilgeous-Alexander,SEC,Kentucky,14.4,Thunder
+25,JaMychal Green,SEC,Alabama,13.5,Warriors
+26,Tobias Harris,SEC,Tennessee,15.3,Sixers
+27,Udonis Haslem,SEC,Florida,13.7,Heat
+28,Tyler Herro,SEC,Kentucky,14,Heat
+29,Al Horford,SEC,Florida,10.3,Celtics
+30,Danuel House,SEC,Texas A&M,14.1,Sixers
+31,Isaiah Jackson,SEC,Kentucky,8.4,Pacers
+32,Quenton Jackson,SEC,Texas A&M,11.9,Wizards
+33,Isaiah Joe,SEC,Arkansas,15.2,Thunder
+34,Keldon Johnson,SEC,Kentucky,13.5,Spurs
+35,Keon Johnson,SEC,Tennessee,11.3,Trail Blazers
+36,Damian Jones,SEC,Vanderbilt,13.3,Jazz
+37,Herb Jones,SEC,Alabama,7.3,Pelicans
+38,Walker Kessler,SEC,Auburn,8.2,Jazz
+39,Kevin Knox,SEC,Kentucky,15.6,Trail Blazers
+40,Luke Kornet,SEC,Vanderbilt,8.9,Celtics
+41,A.J. Lawson,SEC,South Carolina,14.2,Mavericks
+42,Saben Lee,SEC,Vanderbilt,13.9,Suns
+43,Kira Lewis Jr.,SEC,Alabama,15.9,Pelicans
+44,Trey Lyles,SEC,Kentucky,8.7,Kings
+45,Tre Mann,SEC,Florida,10.2,Thunder
+46,Tyrese Maxey,SEC,Kentucky,14,Sixers
+47,Malik Monk,SEC,Kentucky,19.8,Kings
+48,Moses Moody,SEC,Arkansas,16.8,Warriors
+49,Jamal Murray,SEC,Kentucky,20,Nuggets
+50,Aaron Nesmith,SEC,Vanderbilt,14.7,Pacers
+51,Chuma Okeke,SEC,Auburn,9.9,Magic
+52,Isaac Okoro,SEC,Auburn,12.9,Cavaliers
+53,Scotty Pippen Jr.,SEC,Vanderbilt,17.5,Lakers
+54,Michael Porter Jr.,SEC,Missouri,10,Nuggets
+55,Bobby Portis,SEC,Arkansas,15,Bucks
+56,Immanuel Quickley,SEC,Kentucky,10.1,Knicks
+57,Julius Randle,SEC,Kentucky,15,Knicks
+58,Naz Reid,SEC,LSU,13.6,Timberwolves
+59,Nick Richards,SEC,Kentucky,7.3,Hornets
+60,Josh Richardson,SEC,Tennessee,9.2,Pelicans
+61,Olivier Sarr,SEC,Kentucky,8.5,Thunder
+62,Admiral Schofield,SEC,Tennessee,11.9,Magic
+63,Collin Sexton,SEC,Alabama,19.2,Jazz
+64,Ben Simmons,SEC,LSU,19.2,Nets
+65,Dru Smith,SEC,Missouri,11.4,Nets
+66,Jabari Smith Jr.,SEC,Auburn,16.9,Rockets
+67,Jaden Springer,SEC,Tennessee,12.5,Sixers
+68,Garrett Temple,SEC,LSU,6.7,Pelicans
+69,Cam Thomas,SEC,LSU,23,Nets
+70,JT Thor,SEC,Auburn,9.4,Hornets
+71,Karl-Anthony Towns,SEC,Kentucky,10.3,Timberwolves
+72,Jarred Vanderbilt,SEC,Kentucky,5.9,Lakers
+73,TyTy Washington Jr.,SEC,Kentucky,12.5,Rockets
+74,P.J. Washington,SEC,Kentucky,12.9,Hornets
+75,Trendon Watford,SEC,LSU,14.9,Trail Blazers
+76,Grant Williams,SEC,Tennessee,15.7,Celtics
+77,Jaylin Williams,SEC,Arkansas,7.9,Thunder
+78,Robert Williams,SEC,Texas A&M,11.1,Celtics
+79,OG Anunoby,Big Ten,Indiana,6.8,Raptors
+80,Dalano Banton,Big Ten,Nebraska,6.3,Raptors
+81,Keita Bates-Diop,Big Ten,Ohio State,11.7,Spurs
+82,Malaki Branham,Big Ten,Ohio State,13.7,Spurs
+83,Thomas Bryant,Big Ten,Indiana,12.2,Nuggets
+84,Max Christie,Big Ten,Michigan State,9.3,Lakers
+85,Amir Coffey,Big Ten,Minnesota,14.4,Clippers
+86,Mike Conley,Big Ten,Ohio State,11.3,Timberwolves
+87,Johnny Davis,Big Ten,Wisconsin,13.4,Wizards
+88,Moussa Diabate,Big Ten,Michigan,9,Clippers
+89,Ayo Dosunmu,Big Ten,Illinois,16.7,Bulls
+90,Bruno Fernando,Big Ten,Maryland,12,Hawks
+91,Luka Garza,Big Ten,Iowa,18.2,Timberwolves
+92,Eric Gordon,Big Ten,Indiana,20.9,Clippers
+93,Draymond Green,Big Ten,Michigan State,10.5,Warriors
+94,Tim Hardaway Jr.,Big Ten,Michigan,14.3,Mavericks
+95,Ron Harper Jr.,Big Ten,Rutgers,12.6,Raptors
+96,Gary Harris,Big Ten,Michigan State,14.9,Magic
+97,Caleb Houstan,Big Ten,Michigan,10.1,Magic
+98,Kevin Huerter,Big Ten,Maryland,12,Kings
+99,Jaden Ivey,Big Ten,Purdue,14.9,Pistons
+100,Jaren Jackson Jr.,Big Ten,Michigan State,10.9,Grizzlies
+101,Frank Kaminsky,Big Ten,Wisconsin,10.1,Rockets
+102,Romeo Langford,Big Ten,Indiana,16.5,Spurs
+103,Caris LeVert,Big Ten,Michigan,10.4,Cavaliers
+104,Meyers Leonard,Big Ten,Illinois,7.7,Bucks
+105,Isaiah Livers,Big Ten,Michigan,8.3,Pistons
+106,Bryce McGowens,Big Ten,Nebraska,16.8,Hornets
+107,Keegan Murray,Big Ten,Iowa,15.8,Kings
+108,Kendrick Nunn,Big Ten,Oakland,14.2,Wizards
+109,Victor Oladipo,Big Ten,Indiana,10.7,Heat
+110,Eugene Omoruyi,Big Ten,Oregon,9.9,Pistons
+111,Jordan Poole,Big Ten,Michigan,9.4,Warriors
+112,Micah Potter,Big Ten,Wisconsin,7.6,Jazz
+113,Duncan Robinson,Big Ten,Michigan,9.3,Heat
+114,Isaiah Roby,Big Ten,Nebraska,8.1,Knicks
+115,D'Angelo Russell,Big Ten,Ohio State,19.3,Lakers
+116,Jalen Smith,Big Ten,Maryland,13.5,Pacers
+117,Lamar Stevens,Big Ten,Penn State,16.3,Cavaliers
+118,Jae'Sean Tate,Big Ten,Ohio State,11.7,Rockets
+119,Xavier Tillman Sr.,Big Ten,Michigan State,8.7,Grizzlies
+120,Franz Wagner,Big Ten,Michigan,12,Magic
+121,Moritz Wagner,Big Ten,Michigan,10.4,Magic
+122,Duane Washington Jr.,Big Ten,Ohio State,11.4,Knicks
+123,Joe Wieskamp,Big Ten,Iowa,13.2,Raptors
+124,Aaron Wiggins,Big Ten,Maryland,11,Thunder
+125,Cody Zeller,Big Ten,Indiana,16.1,Heat
+126,Nickeil Alexander-Walker,ACC,Virginia Tech,13.5,Timberwolves
+127,Grayson Allen,ACC,Duke,14.1,Bucks
+128,Jose Alvarado,ACC,Georgia Tech,13.5,Pelicans
+129,Cole Anthony,ACC,North Carolina,18.5,Magic
+130,Marvin Bagley III,ACC,Duke,21,Pistons
+131,Paolo Banchero,ACC,Duke,17.2,Magic
+132,Harrison Barnes,ACC,North Carolina,16.3,Kings
+133,Scottie Barnes,ACC,Florida State,10.3,Raptors
+134,RJ Barrett,ACC,Duke,22.6,Knicks
+135,Malik Beasley,ACC,Florida State,15.6,Lakers
+136,Buddy Boeheim,ACC,Syracuse,14.6,Pistons
+137,Oshae Brissett,ACC,Syracuse,13.7,Pacers
+138,Malcolm Brogdon,ACC,Virginia,13.3,Celtics
+139,Bruce Brown,ACC,Miami (FL),11.7,Nuggets
+140,Reggie Bullock,ACC,North Carolina,9.9,Mavericks
+141,John Butler,ACC,Florida State,5.9,Trail Blazers
+142,Vernon Carey Jr.,ACC,Duke,17.8,Jazz
+143,Wendell Carter Jr.,ACC,Duke,13.5,Magic
+144,Justin Champagnie,ACC,Pittsburgh,14.7,Celtics
+145,John Collins,ACC,Wake Forest,13.4,Hawks
+146,Pat Connaughton,ACC,Notre Dame,10.5,Bucks
+147,Seth Curry,ACC,Duke,14.9,Nets
+148,Mamadi Diakite,ACC,Virginia,7.4,Cavaliers
+149,Trent Forrest,ACC,Florida State,8.3,Hawks
+150,Anthony Gill,ACC,Virginia,10.5,Wizards
+151,Jerami Grant,ACC,Syracuse,7.5,Trail Blazers
+152,Raiquan Gray,ACC,Florida State,6.8,Nets
+153,Danny Green,ACC,North Carolina,9.4,Cavaliers
+154,A.J. Griffin Jr.,ACC,Duke,10.4,Hawks
+155,Montrezl Harrell,ACC,Louisville,11.6,Sixers
+156,Joe Harris,ACC,Virginia,12.6,Nets
+157,Sam Hauser,ACC,Virginia,13.3,Celtics
+158,James Huff,ACC,Virginia,7.6,Wizards
+159,De'Andre Hunter,ACC,Virginia,12.4,Hawks
+160,Brandon Ingram,ACC,Duke,17.3,Pelicans
+161,Kyrie Irving,ACC,Duke,17.5,Mavericks
+162,Jonathan Isaac,ACC,Florida State,12,Magic
+163,Reggie Jackson,ACC,Boston College,12.7,Nuggets
+164,Ty Jerome,ACC,Virginia,9.6,Warriors
+165,Cameron Johnson,ACC,North Carolina,11.2,Nets
+166,Jalen Johnson,ACC,Duke,11.2,Hawks
+167,James Johnson,ACC,Wake Forest,14.8,Pacers
+168,Carlik Jones,ACC,Louisville,15.9,Bulls
+169,Tre Jones,ACC,Duke,12.4,Spurs
+170,Tyus Jones,ACC,Duke,11.8,Grizzlies
+171,Mfiondu Kabengele,ACC,Florida State,10.3,Celtics
+172,Trevor Keels,ACC,Duke,11.5,Knicks
+173,Luke Kennard,ACC,Duke,15.7,Grizzlies
+174,Jake LaRavia,ACC,Wake Forest,12.2,Grizzlies
+175,Damion Lee,ACC,Louisville,16.1,Suns
+176,Nassir Little,ACC,North Carolina,9.8,Trail Blazers
+177,Terance Mann,ACC,Florida State,9.4,Clippers
+178,Donovan Mitchell,ACC,Louisville,11.7,Cavaliers
+179,Wendell Moore Jr.,ACC,Duke,10.7,Timberwolves
+180,Trey Murphy III,ACC,Virginia,11,Pelicans
+181,Jordan Nwora,ACC,Louisville,13.9,Pacers
+182,Josh Okogie,ACC,Georgia Tech,16.9,Suns
+183,Chris Paul,ACC,Wake Forest,15,Suns
+184,Theo Pinson,ACC,North Carolina,6.2,Mavericks
+185,Mason Plumlee,ACC,Duke,9.8,Clippers
+186,Cam Reddish,ACC,Duke,13.5,Trail Blazers
+187,Austin Rivers,ACC,Duke,15.5,Timberwolves
+188,Terry Rozier,ACC,Louisville,12,Hornets
+189,Dereon Seabron,ACC,NC State,12.1,Pelicans
+190,Day'Ron Sharpe,ACC,North Carolina,9.5,Nets
+191,Dennis Smith,ACC,NC State,18.1,Hornets
+192,Ish Smith,ACC,Wake Forest,9.2,Nuggets
+193,Cole Swider,ACC,Syracuse,7.8,Lakers
+194,Jayson Tatum,ACC,Duke,16.8,Celtics
+195,Gary Trent Jr.,ACC,Duke,14.5,Raptors
+196,Devin Vassell,ACC,Florida State,8.4,Spurs
+197,Lonnie Walker,ACC,Miami (FL),11.5,Lakers
+198,T.J. Warren,ACC,NC State,18.5,Suns
+199,Blake Wesley,ACC,Notre Dame,14.4,Spurs
+200,Coby White,ACC,North Carolina,16.1,Bulls
+201,Jack White,ACC,Duke,2.7,Nuggets
+202,Mark Williams,ACC,Duke,9.7,Hornets
+203,Patrick Williams,ACC,Florida State,9.2,Bulls
+204,Zion Williamson,ACC,Duke,22.6,Pelicans
+205,Justise Winslow,ACC,Duke,12.6,Trail Blazers
+206,Thaddeus Young,ACC,Georgia Tech,14.4,Raptors
+207,Saddiq Bey,Big East,Villanova,11.9,Hawks
+208,James Bouknight,Big East,Connecticut,15,Hornets
+209,Mikal Bridges,Big East,Villanova,11.3,Nets
+210,Jalen Brunson,Big East,Villanova,14.4,Knicks
+211,Julian Champagnie,Big East,St. John's,16,Spurs
+212,Donte DiVincenzo,Big East,Villanova,10.2,Warriors
+213,David Duke,Big East,Providence,11.5,Nets
+214,Kris Dunn,Big East,Providence,12.8,Jazz
+215,Josh Hart,Big East,Villanova,13.2,Knicks
+216,Sandro Mamukelashvili,Big East,Seton Hall,9.6,Spurs
+217,Naji Marshall,Big East,Xavier,12.9,Pelicans
+218,Tyrese Martin,Big East,Connecticut,11.1,Hawks
+219,Doug McDermott,Big East,Creighton,21.7,Spurs
+220,Paul Reed Jr.,Big East,DePaul,10.6,Sixers
+221,Jared Rhoden,Big East,Seton Hall,10.4,Pistons
+222,Jeremiah Robinson-Earl,Big East,Villanova,12.8,Thunder
+223,Max Strus,Big East,DePaul,18.6,Heat
+224,Edmond Sumner,Big East,Xavier,11.4,Nets
+225,Juan Toscano-Anderson,Big East,Marquette,2.8,Jazz
+226,Omer Yurtseven,Big East,Georgetown,12.1,Heat
+227,Kyle Anderson,Pac 12,UCLA,12.2,Timberwolves
+228,Deandre Ayton,Pac 12,Arizona,20.1,Suns
+229,Lonzo Ball,Pac 12,UCLA,14.6,Bulls
+230,Bol Bol,Pac 12,Oregon,21,Magic
+231,Chris Boucher,Pac 12,Oregon,12,Raptors
+232,Dillon Brooks,Pac 12,Oregon,14.8,Grizzlies
+233,Jaylen Brown,Pac 12,California,14.6,Celtics
+234,"Troy Brown, Jr.",Pac 12,Oregon,11.3,Lakers
+235,Josh Christopher,Pac 12,Arizona State,14.3,Rockets
+236,DeMar DeRozan,Pac 12,USC,13.9,Bulls
+237,Dewayne Dedmon,Pac 12,USC,7.1,Sixers
+238,Spencer Dinwiddie,Pac 12,Colorado,13,Nets
+239,Luguentz Dort,Pac 12,Arizona State,16.1,Thunder
+240,Chris Duarte,Pac 12,Oregon,14.9,Pacers
+241,Drew Eubanks,Pac 12,Oregon State,11.7,Trail Blazers
+242,Malachi Flynn,Pac 12,San Diego State,14.4,Raptors
+243,Markelle Fultz,Pac 12,Washington,23.2,Magic
+244,Taj Gibson,Pac 12,USC,12.4,Wizards
+245,Aaron Gordon,Pac 12,Arizona,12.4,Nuggets
+246,Josh Green,Pac 12,Arizona,12,Mavericks
+247,James Harden,Pac 12,Arizona State,19,Sixers
+248,Aaron Holiday,Pac 12,UCLA,14.3,Hawks
+249,Jrue Holiday,Pac 12,UCLA,8.5,Bucks
+250,Justin Holiday,Pac 12,Washington,5.3,Mavericks
+251,Andre Iguodala,Pac 12,Arizona,9.6,Warriors
+252,Johnny Juzang,Pac 12,UCLA,11.6,Jazz
+253,Louis King,Pac 12,Oregon,13.5,Sixers
+254,Christian Koloko,Pac 12,Arizona,7.3,Raptors
+255,Kyle Kuzma,Pac 12,Utah,10.1,Wizards
+256,Zach LaVine,Pac 12,UCLA,9.4,Bulls
+257,Kevon Looney,Pac 12,UCLA,11.6,Warriors
+258,Brook Lopez,Pac 12,Stanford,16,Bucks
+259,Robin Lopez,Pac 12,Stanford,9,Cavaliers
+260,Kevin Love,Pac 12,UCLA,17.5,Heat
+261,Lauri Markkanen,Pac 12,Arizona,15.6,Jazz
+262,Bennedict Mathurin,Pac 12,Arizona,14.8,Pacers
+263,T.J. McConnell,Pac 12,Arizona,10.2,Pacers
+264,Jaden McDaniels,Pac 12,Washington,13,Timberwolves
+265,Jordan McLaughlin,Pac 12,USC,12.9,Timberwolves
+266,De'Anthony Melton,Pac 12,USC,8.3,Sixers
+267,Chimezie Metu,Pac 12,USC,12.3,Kings
+268,Evan Mobley,Pac 12,USC,16.4,Cavaliers
+269,Isaiah Mobley,Pac 12,USC,10.1,Cavaliers
+270,Dejounte Murray,Pac 12,Washington,16.1,Hawks
+271,Zeke Nnaji,Pac 12,Arizona,16.1,Nuggets
+272,Jaylen Nowell,Pac 12,Washington,16.1,Timberwolves
+273,Onyeka Okongwu,Pac 12,USC,16.2,Hawks
+274,Eugene Omoruyi,Pac 12,Oregon,9.9,Pistons
+275,Gary Payton II,Pac 12,Oregon State,14.7,Warriors
+276,Jakob Poeltl,Pac 12,Utah,13.3,Raptors
+277,Kevin Porter Jr.,Pac 12,USC,9.5,Rockets
+278,Dwight Powell,Pac 12,Stanford,10.8,Mavericks
+279,Norman Powell,Pac 12,UCLA,9.8,Clippers
+280,Payton Pritchard,Pac 12,Oregon,13.5,Celtics
+281,Terrence Ross,Pac 12,Washington,12.3,Suns
+282,Kobi Simmons,Pac 12,Arizona,8.7,Hornets
+283,Isaiah Stewart II,Pac 12,Washington,17,Pistons
+284,Dalen Terry,Pac 12,Arizona,6.6,Bulls
+285,Klay Thompson,Pac 12,Washington State,17.9,Warriors
+286,Matisse Thybulle,Pac 12,Washington,9.2,Trail Blazers
+287,Nikola Vucevic,Pac 12,USC,11.1,Bulls
+288,Jabari Walker,Pac 12,Colorado,11.5,Trail Blazers
+289,Peyton Watson,Pac 12,UCLA,3.3,Nuggets
+290,Russell Westbrook,Pac 12,UCLA,8.3,Clippers
+291,Derrick White,Pac 12,Colorado,18.1,Celtics
+292,Ziaire Williams,Pac 12,Stanford,10.7,Grizzlies
+293,McKinley Wright IV,Pac 12,Colorado,14.2,Mavericks
+294,Delon Wright,Pac 12,Utah,15,Wizards
+295,Gabe York,Pac 12,Arizona,9.2,Pacers
+296,Ochai Agbaji,Big 12,Kansas,12.8,Jazz
+297,Jarrett Allen,Big 12,Texas,13.4,Cavaliers
+298,D.J. Augustin,Big 12,Texas,14.4,Rockets
+299,Udoka Azubuike,Big 12,Kansas,12.3,Jazz
+300,Mohamed Bamba,Big 12,Texas,12.9,Lakers
+301,Desmond Bane,Big 12,Texas Christian,15.2,Grizzlies
+302,Christian Braun,Big 12,Kansas,14.1,Nuggets
+303,Kendall Brown,Big 12,Baylor,9.7,Pacers
+304,Jared Butler,Big 12,Baylor,10.2,Thunder
+305,Jevon Carter,Big 12,West Virginia,9.5,Bucks
+306,Cade Cunningham,Big 12,Oklahoma State,20.1,Pistons
+307,Kevin Durant,Big 12,Texas,25.8,Suns
+308,Joel Embiid,Big 12,Kansas,11.2,Sixers
+309,Devonte' Graham,Big 12,Kansas,5.7,Spurs
+310,Blake Griffin,Big 12,Oklahoma,18.8,Celtics
+311,Tyrese Haliburton,Big 12,Iowa State,6.8,Pacers
+312,Jaxson Hayes,Big 12,Texas,12,Pelicans
+313,Buddy Hield,Big 12,Oklahoma,17.4,Pacers
+314,Talen Horton-Tucker,Big 12,Iowa State,11.8,Jazz
+315,Kai Jones,Big 12,Texas,3.6,Hornets
+316,Cory Joseph,Big 12,Texas,10.4,Pistons
+317,Miles McBride,Big 12,West Virginia,9.5,Knicks
+318,Mac McClung,Big 12,Texas Tech,15.7,Sixers
+319,Rodney McGruder,Big 12,Kansas State,11.1,Pistons
+320,Davion Mitchell,Big 12,Baylor,23.8,Kings
+321,Marcus Morris,Big 12,Kansas,12.6,Clippers
+322,Markieff Morris,Big 12,Kansas,6.8,Mavericks
+323,Monte Morris,Big 12,Iowa State,16.4,Wizards
+324,Svi Mykhailiuk,Big 12,Kansas,5.8,Hornets
+325,Georges Niang,Big 12,Iowa State,20.2,Sixers
+326,Royce O'Neale,Big 12,Baylor,7.1,Nets
+327,Kelly Oubre Jr.,Big 12,Kansas,9.3,Hornets
+328,Taurean Prince,Big 12,Baylor,6.2,Timberwolves
+329,Austin Reaves,Big 12,Oklahoma,18.3,Lakers
+330,Jericho Sims,Big 12,Texas,9.2,Knicks
+331,Marcus Smart,Big 12,Oklahoma State,16.6,Celtics
+332,Xavier Sneed,Big 12,Kansas State,20.4,Hornets
+333,Jeremy Sochan,Big 12,Baylor,9.2,Spurs
+334,Tristan Thompson,Big 12,Texas,14.6,Lakers
+335,P.J. Tucker,Big 12,Texas,13.4,Sixers
+336,Myles Turner,Big 12,Texas,9.9,Pacers
+337,Dean Wade,Big 12,Kansas State,16.2,Cavaliers
+338,Ish Wainright,Big 12,Baylor,1.9,Suns
+339,Lindy Waters III,Big 12,Oklahoma State,5.7,Thunder
+340,Andrew Wiggins,Big 12,Kansas,17.1,Warriors
+341,Lindell Wigginton,Big 12,Iowa State,16.4,Bucks
+342,Kenrich Williams,Big 12,Texas Christian,14.6,Thunder
+343,Trae Young,Big 12,Oklahoma,27.4,Hawks
